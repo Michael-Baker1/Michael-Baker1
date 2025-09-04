@@ -14,7 +14,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/michael-baker-1b456921a/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:your.email@example.com"><img width="32px" alt="Email" title="Email" src="https://i.imgur.com/Iz4XJ8k.png"/></a>
 </p>
 
 <br/>
@@ -64,5 +63,5 @@
   <summary><h2>📫 Connect With Me</h2></summary>
 
   - [LinkedIn](https://www.linkedin.com/in/michael-baker-1b456921a/)  
-  - 📧 Email: your.email@example.com  
+  - 📧 Email: catesm123456789@gmail.com  
 </details>
