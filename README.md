@@ -41,7 +41,7 @@
 </details>
 
 <details open>
-  <summary><h2>🛠️ Skills & Tools (in progress)</h2></summary>
+  <summary><h2>🛠️ Skills & Tools </h2></summary>
 
   <p>
     <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white">
@@ -53,13 +53,12 @@
 </details>
 
 <details open>
-  <summary><h2>📌 Projects (to be documented)</h2></summary>
+  <summary><h2>📌 Projects </h2></summary>
 
   - **Active Directory Lab** — User and group management, GPO practice  
   - **Networking Lab** — Router/switch setup, subnetting, troubleshooting  
   - **Help Desk Simulation** — Mock ticketing system and resolution workflow  
 
-  *Write-ups coming soon!*
 </details>
 
 <details>
