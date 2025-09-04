@@ -23,7 +23,7 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <a href="https://github.com/michael-baker?tab=repositories">
+  <a href="https://github.com/Michael-Baker1?tab=repositories">
     <img alt="Michael’s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=michael-baker&show_icons=true&theme=radical"/>
   </a>
 </p>
