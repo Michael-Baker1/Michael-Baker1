@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/michael-baker1">
+  <a href="https://github.com/Michael-Baker1">
 
 <img width="1536" height="1024" alt="banner png" src="https://github.com/user-attachments/assets/79195fd8-094d-4e43-adf2-ecc654824aeb" />
 
