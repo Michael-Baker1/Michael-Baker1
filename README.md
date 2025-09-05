@@ -55,10 +55,7 @@
 <details open>
   <summary><h2>📌 Projects </h2></summary>
 
-  - **Active Directory Lab** — User and group management, GPO practice  
-  - **Networking Lab** — Router/switch setup, subnetting, troubleshooting  
-  - **Help Desk Simulation** — Mock ticketing system and resolution workflow  
-
+  - [Azure Networking & Traffic Analysis Lab (Wireshark)](https://github.com/Michael-Baker1/Azure-Networking-Traffic-Analysis-Lab)
 </details>
 
 <details>
