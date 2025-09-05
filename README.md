@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <a href="https://github.com/Michael-Baker1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Aspiring%20IT%20Professional;Associates%20Degree%20in%20IT;CourseCareers%20Graduate;Building%20Labs%20and%20Projects;Always%20Learning%20and%20Improving&font=Fira%20Code&center=true&width=550&height=45&color=4CAF50&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
@@ -24,7 +24,7 @@
 <!-- GitHub Stats -->
 <p align="center">
   <a href="https://github.com/Michael-Baker1?tab=repositories">
-    <img alt="Michael’s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=michael-baker&show_icons=true&theme=radical"/>
+    <img alt="Michael’s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Michael-Baker1&show_icons=true&theme=radical"/>
   </a>
 </p>
 
@@ -58,7 +58,7 @@
   - [Azure Networking & Traffic Analysis Lab (Wireshark)](https://github.com/Michael-Baker1/Azure-Networking-Traffic-Analysis-Lab)
 </details>
 
-<details>
+<details open>
   <summary><h2>📫 Connect With Me</h2></summary>
 
   - [LinkedIn](https://www.linkedin.com/in/michael-baker-1b456921a/)  
