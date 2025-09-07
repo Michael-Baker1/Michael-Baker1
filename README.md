@@ -55,7 +55,7 @@
 <details open>
   <summary><h2>📌 Projects </h2></summary>
 
-  - [Azure Networking & Traffic Analysis Lab (Wireshark)](https://github.com/Michael-Baker1/Azure-Networking-Traffic-Analysis-Lab)
+  - [Azure Networking & Traffic Analysis (Wireshark)](https://github.com/Michael-Baker1/Azure-Networking-Traffic-Analysis-Lab)
 </details>
 
 <details open>
