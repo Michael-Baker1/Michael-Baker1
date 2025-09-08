@@ -56,6 +56,7 @@
   <summary><h2>📌 Projects </h2></summary>
 
   - [Azure Networking & Traffic Analysis (Wireshark)](https://github.com/Michael-Baker1/Azure-Networking-Traffic-Analysis-Lab)
+  - [osTicket help desk system deployment](https://github.com/Michael-Baker1/osTicket-Help-Desk-System-Deployment)
 </details>
 
 <details open>
