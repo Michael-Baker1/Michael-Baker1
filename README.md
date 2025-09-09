@@ -59,6 +59,7 @@
   - [osTicket help desk system deployment](https://github.com/Michael-Baker1/osTicket-Help-Desk-System-Deployment)
   - [Azure VPN & Geo-Location Project](https://github.com/Michael-Baker1/Azure-VPN---Geo-Location-Project/blob/main/README.md)
   - [Active Directory Domain Setup & User Management In Azure](https://github.com/Michael-Baker1/Active-Directory-Domain-Setup---User-Management-In-Azure/blob/main/README.md)
+  - [Active Directory DNS Records (A, CNAME, and Cache Exercises)](https://github.com/Michael-Baker1/Active-Directory-DNS-Records/blob/main/README.md)
 </details>
 
 <details open>
