@@ -54,13 +54,18 @@
 
 <details open>
   <summary><h2>📌 Projects </h2></summary>
-
-  - [Azure Networking & Traffic Analysis (Wireshark)](https://github.com/Michael-Baker1/Azure-Networking-Traffic-Analysis-Lab)
-  - [osTicket help desk system deployment](https://github.com/Michael-Baker1/osTicket-Help-Desk-System-Deployment)
-  - [Azure VPN & Geo-Location Project](https://github.com/Michael-Baker1/Azure-VPN---Geo-Location-Project/blob/main/README.md)
+🔝 Tier 1 Projects
+  
   - [Active Directory Domain Setup & User Management In Azure](https://github.com/Michael-Baker1/Active-Directory-Domain-Setup---User-Management-In-Azure/blob/main/README.md)
-  - [Active Directory DNS Records (A, CNAME, and Cache Exercises)](https://github.com/Michael-Baker1/Active-Directory-DNS-Records/blob/main/README.md)
   - [File Sharing & Permissions In Active Directory](https://github.com/Michael-Baker1/File-Sharing---Permissions-In-Active-Directory/blob/main/README.md)
+  - [osTicket help desk system deployment](https://github.com/Michael-Baker1/osTicket-Help-Desk-System-Deployment)
+ 
+ 🟢 Tier 2 Projects
+- [Active Directory DNS Records (A, CNAME, and Cache Exercises)](https://github.com/Michael-Baker1/Active-Directory-DNS-Records/blob/main/README.md)
+- [Azure Networking & Traffic Analysis (Wireshark)](https://github.com/Michael-Baker1/Azure-Networking-Traffic-Analysis-Lab)
+  
+🟡 Tier 3 Projects
+- [Azure VPN & Geo-Location Project](https://github.com/Michael-Baker1/Azure-VPN---Geo-Location-Project/blob/main/README.md)
 </details>
 
 <details open>
