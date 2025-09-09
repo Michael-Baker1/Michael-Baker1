@@ -35,7 +35,7 @@
   
   - 🎓 Associate’s Degree in Information Technology  
   - 📜 CourseCareers IT Certificate  
-  - 🧪 Hands-on labs: Active Directory, networking, help desk scenarios  
+  - 🧪 Hands on experience: Active Directory, networking, help desk scenarios  
   - 🚀 Actively building and documenting projects  
   - 🌱 Goal: Break into IT as a support/analyst and grow from there
 </details>
