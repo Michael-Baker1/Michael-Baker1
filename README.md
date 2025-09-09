@@ -57,6 +57,7 @@
 
   - [Azure Networking & Traffic Analysis (Wireshark)](https://github.com/Michael-Baker1/Azure-Networking-Traffic-Analysis-Lab)
   - [osTicket help desk system deployment](https://github.com/Michael-Baker1/osTicket-Help-Desk-System-Deployment)
+  - [Azure VPN & Geo-Location Project](https://github.com/Michael-Baker1/Azure-VPN---Geo-Location-Project/blob/main/README.md)
 </details>
 
 <details open>
