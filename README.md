@@ -60,6 +60,7 @@
   - [Azure VPN & Geo-Location Project](https://github.com/Michael-Baker1/Azure-VPN---Geo-Location-Project/blob/main/README.md)
   - [Active Directory Domain Setup & User Management In Azure](https://github.com/Michael-Baker1/Active-Directory-Domain-Setup---User-Management-In-Azure/blob/main/README.md)
   - [Active Directory DNS Records (A, CNAME, and Cache Exercises)](https://github.com/Michael-Baker1/Active-Directory-DNS-Records/blob/main/README.md)
+  - [File Sharing & Permissions In Active Directory](https://github.com/Michael-Baker1/File-Sharing---Permissions-In-Active-Directory/blob/main/README.md)
 </details>
 
 <details open>
